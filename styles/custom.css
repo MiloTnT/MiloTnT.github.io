@@ -34,7 +34,7 @@ article.container div.row div {
   margin: 50px 0px 10px 0px;
   background-color: white;
   font-size: large;
-  text-align: left;
+  text-align: center;
   color: black;
 }
 
@@ -179,12 +179,3 @@ article.container div.row div {
   background-color: whitesmoke;
 }
 
-.imgPreview {
-	display: none;
-	top: 0;
-	left: 0;
-	width: 100%; /*容器占满整个屏幕*/
-	height: 100%;
-	position: fixed;
-	background: rgba(0, 0, 0, 0.5);
-}
